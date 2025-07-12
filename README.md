@@ -1,6 +1,7 @@
 # fullstack_app
 
-🚀 Project Tech Stack & Features
+🚀 Project Tech Stack & Features🚀
+
 This project includes the implementation of the following technologies and features:
 
 * Next.js – For server-side rendering and building scalable web applications 
@@ -20,6 +21,6 @@ This project includes the implementation of the following technologies and featu
 
 
 
-** MongoDB ** 
+💾 MongoDB 💾
 * User : email, password, _id, createdAt, updatedAt..
 * Video : title, description, videoURL, thumbnailURL, transformation ( height, width, quality ), controls..
