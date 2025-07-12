@@ -24,3 +24,8 @@
 💾 MongoDB 💾
 * User : email, password, _id, createdAt, updatedAt..
 * Video : title, description, videoURL, thumbnailURL, transformation ( height, width, quality ), controls..
+
+
+💻 Core Coding & Development
+* npm i mongoose bcryptjs
+* 
