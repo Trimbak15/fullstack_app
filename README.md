@@ -15,3 +15,5 @@ Video Handling – To support video upload, playback, or streaming features
 
 AI Integration – Incorporating artificial intelligence for enhanced functionality (e.g., chat, recommendations, automation)
 
+Mongoose is used t encrupte the password of user's.
+
