@@ -2,7 +2,7 @@
 
 🚀 Project Tech Stack & Features🚀
 
-This project includes the implementation of the following technologies and features:
+🗂️ This project includes the implementation of the following technologies and features: 🗂️
 
 * Next.js – For server-side rendering and building scalable web applications 
 
