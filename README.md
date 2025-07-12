@@ -28,4 +28,4 @@
 
 💻 Core Coding & Development
 * npm i mongoose bcryptjs
-* 
+* npm i @types/bcryptjs : for all teh tyopes of the bcrypt 
