@@ -17,3 +17,9 @@ AI Integration – Incorporating artificial intelligence for enhanced functional
 
 Mongoose - Used to Encrypt the password of user's.
 
+
+
+
+** MongoDB ** 
+* User : email, password, _id, createdAt, updatedAt..
+* Video : title, description, videoURL, thumbnailURL, transformation ( height, width, quality ), controls..
