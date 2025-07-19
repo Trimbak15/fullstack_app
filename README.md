@@ -18,7 +18,8 @@
 
 * Mongoose - Used to Encrypt the password of user's.
 
-* Next_Auth - It gives us DefaultSession just as JWT token.
+* Next_Auth - It gives us DefaultSession just as JWT token. It is used for log in functionality only.
+* 
 
 
 
