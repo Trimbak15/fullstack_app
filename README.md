@@ -19,7 +19,8 @@
 * Mongoose - Used to Encrypt the password of user's.
 
 * Next_Auth - It gives us DefaultSession just as JWT token. It is used for log in functionality only.
-* 
+  
+* By this project completion we will be able to handle the NextAuth , Type Scipt , NextJS and the Crusial concept in the IT market Video streaming.
 
 
 
