@@ -71,4 +71,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 💻 Core Coding & Development
 * npm i mongoose bcryptjs
 * npm i @types/bcryptjs : for all teh types of the bcrypt 
->>>>>>> dbdc78c4942222c27f0dfad6d068fd0381cd52b2
+
